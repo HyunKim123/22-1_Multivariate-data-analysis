@@ -1,0 +1,3 @@
+# 22-1_Multivariate-data-analysis
+
+Multivariate data analysis wit coffee quality dataset(kaggle) with using MANOVA, regression, etc...
